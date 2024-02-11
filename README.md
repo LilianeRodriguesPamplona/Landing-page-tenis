@@ -7,7 +7,7 @@
 ## Project Preview
 
 ### light mode
-![](/desktop-light-mode.pn)
+![](/desktop-light-mode.png)
 
 ### dark mode
 ![](/desktop-dark-mode.png)
